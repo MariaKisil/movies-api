@@ -8,7 +8,7 @@ This project is a RESTful web-service to manage movies using Node.js, Express.js
 1. **Clone the project**:
 
    ```bash
-   git clone [https://github.com/MariaKisil/movie-api.git](https://github.com/MariaKisil/movies-api.git)
+   git clone https://github.com/MariaKisil/movies-api.git
    cd movie-api
    ```
 
