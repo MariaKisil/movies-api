@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Package lock file
+package-lock.json
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# IDE-specific files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
